@@ -17,3 +17,5 @@ end
 def using_size(array)
 array.size
 end
+
+def using_sort(array)
